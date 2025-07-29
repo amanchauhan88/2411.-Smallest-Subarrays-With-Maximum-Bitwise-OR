@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
   public int[] smallestSubarrays(int[] nums) {
     final int MAX_BIT = 30;
